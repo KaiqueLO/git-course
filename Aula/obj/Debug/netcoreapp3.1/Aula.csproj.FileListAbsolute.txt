@@ -1,0 +1,11 @@
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.exe
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.deps.json
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.json
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.dev.json
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.dll
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\bin\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfo.cs
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\obj\Debug\netcoreapp3.1\Aula.dll
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\obj\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\kaiqu\Documents\Curso_C#\Aula1\Aula\obj\Debug\netcoreapp3.1\Aula.csprojAssemblyReference.cache
